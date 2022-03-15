@@ -1,5 +1,11 @@
-### Hi there 👋
 
+
+![hello](https://i.pinimg.com/originals/90/ee/8c/90ee8c7d852e53327dbde9fc252cf023.gif)
+</br >
+<br />
+:point_right: Currently learning everything GitHub </br>
+:point_right: Lover of colour and stopping to smell the roses (literally and metaphorically) <br />
+:point_right: Always open to book suggestions <br />
 <!--
 **Gkpd/gkpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
