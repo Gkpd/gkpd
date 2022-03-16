@@ -1,7 +1,3 @@
-
-![giphy](https://user-images.githubusercontent.com/95615501/158327360-82ce2cc3-6cfa-4887-bd5a-c47728b2922a.gif)
-</br>
-
 Hi, my name is Giorgia and it's nice to meet you!
 
 A few fun facts about me:</br>
