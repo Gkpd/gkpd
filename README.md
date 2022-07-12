@@ -3,7 +3,7 @@ Hi, my name is Giorgia and it's nice to meet you!
 A few fun facts about me:</br>
 👉 Awarded "Most likely to make up an award because she can't think of any fun facts" award </br>
 👉 You can usually find me reading, gaming or swimming</br>
-👉 I'm working on my Github skills, tell me your top tips!
+👉 You can call me G, GK, GKPD, GiGi, Giorgina, George - basically if it starts with a G, I'll probably answer to it
 
 
 <!--
