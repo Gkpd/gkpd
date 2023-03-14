@@ -5,7 +5,7 @@ I manage Field Marketing at GitHub for ANZ and ASEAN (South East Asia).
 
 Previously I worked at two software developers specialising in mining and resources. I'm passionate about using technology to improve sustainability and if you're interested in learning more, [Mining to Save the Planet](https://www.seequent.com/mining-to-save-the-planet/) is a great presentation to get started 🌳
 
-At GitHub, I collaborate closely with sales, solution engineers and customers to grow our footprint in South APAC. I am continually humbled by how innovative our region is and all the amazing projects happening.
+At GitHub, I collaborate closely with sales, solution engineers and customers to grow our footprint in South APAC. I am continually humbled by how innovative our region is and all the amazing projects happening
 
 ---
 
