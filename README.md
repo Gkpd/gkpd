@@ -9,12 +9,16 @@ At GitHub, I collaborate closely with sales, solution engineers and customers to
 
 ---
 
-### **Project Highlights**
+### **Highlights**
 
-November 23, 2022 - Singapore Watch Party <br>
+I like to make highlight reels of my favourite GitHub events and projects! [Check them out here](https://www.linkedin.com/in/giorgia-parham-bb36a855/recent-activity/videos/)
+
+
+<img src="https://github.com/Gkpd/gkpd/assets/95615501/eada49e2-160b-4121-86db-fadddeea88a4"  width="600" >
+
+<img src="https://github.com/Gkpd/gkpd/assets/95615501/dc1a66a0-fa96-4557-b8e4-40cb2ce91e0c"  width="600" >
+
 ![Image](https://user-images.githubusercontent.com/95615501/212011206-f51038dd-fc35-4c89-a1f1-9c63787d3e91.gif)
-
-September 10, 2022 - GitHub @ DDD Perth <br>
 
 <img src="https://user-images.githubusercontent.com/95615501/224660825-f58cba9b-dfe5-47b4-8dee-4953a28b8799.jpg"  width="600" >
 
