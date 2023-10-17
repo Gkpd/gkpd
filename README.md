@@ -15,8 +15,6 @@ I like to make highlight reels of my favourite GitHub events and projects! [Chec
 
 <img src="https://github.com/Gkpd/gkpd/assets/95615501/dc1a66a0-fa96-4557-b8e4-40cb2ce91e0c"  width="600" >
 
-<img src="https://github.com/Gkpd/gkpd/assets/95615501/85a30e22-6722-4d47-bcfc-a84e70c3b11f"  width="600" >
-
 <img src="https://github.com/Gkpd/gkpd/assets/95615501/dc1a66a0-fa96-4557-b8e4-40cb2ce91e0c"  width="600" >
 
 ![Image](https://user-images.githubusercontent.com/95615501/212011206-f51038dd-fc35-4c89-a1f1-9c63787d3e91.gif)
