@@ -13,8 +13,9 @@ At GitHub, I collaborate closely with sales, solution engineers and customers to
 
 I like to make highlight reels of my favourite GitHub events and projects! [Check them out here](https://www.linkedin.com/in/giorgia-parham-bb36a855/recent-activity/videos/)
 
+<img src="https://github.com/Gkpd/gkpd/assets/95615501/dc1a66a0-fa96-4557-b8e4-40cb2ce91e0c"  width="600" >
 
-<img src="https://github.com/Gkpd/gkpd/assets/95615501/eada49e2-160b-4121-86db-fadddeea88a4"  width="600" >
+<img src="https://github.com/Gkpd/gkpd/assets/95615501/85a30e22-6722-4d47-bcfc-a84e70c3b11f"  width="600" >
 
 <img src="https://github.com/Gkpd/gkpd/assets/95615501/dc1a66a0-fa96-4557-b8e4-40cb2ce91e0c"  width="600" >
 
