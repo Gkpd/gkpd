@@ -1,7 +1,7 @@
 # G'Day! I'm Giorgia 👋
 _(pronounced Georgia / Jaw-Juh)_
 
-**TL;DR: I manage Field Marketing at GitHub for ANZ and ASEAN (South East Asia). **
+**TL;DR: I manage marketing campaigns for the APAC region at GitHub**
 
 Prior to GitHub, I managed the regional marketing execution and strategy for software developers in the mining and resources industry. Think geological 3D modelling, fleet management, resource estimation and sample database management. I found real joy in the challenges of marketing software that you'll never be a technical expert on - there was no way I'd ever match expertise levels with PhD level geologists! So it taught me to focus on the foundations of marketing and sift down to key pain points to solve. It's a skillset that has come in handy everyday at GitHub and has allowed me to be comfortable in dealing with challenges with deep technical requirements and translating that back to laymans problems and then building solutions. 
 
